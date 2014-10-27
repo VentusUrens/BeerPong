@@ -1,0 +1,12 @@
+C:\Users\Laptop\Source\Workspaces\teamcabletelerik\BeerPongGame\BeerPong\bin\Debug\BeerPong.exe.config
+C:\Users\Laptop\Source\Workspaces\teamcabletelerik\BeerPongGame\BeerPong\bin\Debug\BeerPong.exe
+C:\Users\Laptop\Source\Workspaces\teamcabletelerik\BeerPongGame\BeerPong\bin\Debug\BeerPong.pdb
+C:\Users\Laptop\Source\Workspaces\teamcabletelerik\BeerPongGame\BeerPong\obj\Debug\BeerPong.csprojResolveAssemblyReference.cache
+C:\Users\Laptop\Source\Workspaces\teamcabletelerik\BeerPongGame\BeerPong\obj\Debug\BeerPong.exe
+C:\Users\Laptop\Source\Workspaces\teamcabletelerik\BeerPongGame\BeerPong\obj\Debug\BeerPong.pdb
+D:\Programming\Telerik_Academy\C#\BeerPongGame\BeerPongGame\BeerPong\bin\Debug\BeerPong.exe.config
+D:\Programming\Telerik_Academy\C#\BeerPongGame\BeerPongGame\BeerPong\obj\Debug\BeerPong.exe
+D:\Programming\Telerik_Academy\C#\BeerPongGame\BeerPongGame\BeerPong\obj\Debug\BeerPong.pdb
+D:\Programming\Telerik_Academy\C#\BeerPongGame\BeerPongGame\BeerPong\bin\Debug\BeerPong.exe
+D:\Programming\Telerik_Academy\C#\BeerPongGame\BeerPongGame\BeerPong\bin\Debug\BeerPong.pdb
+D:\Programming\Telerik_Academy\C#\BeerPongGame\BeerPongGame\BeerPong\obj\Debug\BeerPong.csprojResolveAssemblyReference.cache
